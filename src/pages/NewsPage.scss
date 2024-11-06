@@ -1,0 +1,60 @@
+.news-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner-image {
+    width: 100%;
+    height: 300px;
+    object-fit:contain;
+    filter: brightness(0.8);
+}
+
+.banner-title {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    color: black;
+    font-size: 36px;
+    // font-weight: bold;
+}
+
+.section-title {
+    font-size: 28px;
+    color: #68A099;
+    margin-bottom: 15px;
+}
+
+.weather-section, 
+.politics-section, 
+.economy-section, 
+.social-section {
+    margin: 40px 0;
+}
+
+.weather-info, 
+.politics-articles, 
+.economy-image {
+    margin-top: 15px;
+    background: #E6DFD1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.weather-image, .economy-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.politics-articles li {
+    font-size: 16px;
+    margin: 8px 0;
+}

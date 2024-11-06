@@ -1,0 +1,44 @@
+
+// Zone NAV
+
+.navbg {
+  background-color: #68A099;     
+}
+.navbar-nav {
+  display: flex;
+  justify-content: space-between;               // Répartit les éléments du menu sur toute la largeur
+  width: 100%;                                  // S'assure que les éléments prennent toute la largeur disponible
+}
+
+// Zone picture
+
+.bigpic {
+  background-image: url("../../public/pics/bali-landscape.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  position: relative;
+}
+.birds {
+  height: 150px;
+  position: absolute;
+  right: 5%;
+  top: 8%;
+}
+.flag_header {
+  height: 60px;
+  position: absolute;
+  right: 52%;
+  top: 2%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.honeheader h1 {
+  font-size: 30px;
+  color: white;
+  width: 50px;  
+  max-width: 50%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  position: absolute;
+  right: 39%;
+  top: 1%;  
+}
