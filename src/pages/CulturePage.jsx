@@ -10,7 +10,7 @@ const CulturePage = () => {
             <div className="culture-page">
                 {/* banner */}
                 <section className="banner">
-                    <img src="/pics/culture-banner1.jpg" alt="Cultural festival in Indonesia" className="banner-image" />
+                    <img src="/pics/culture-banner1.jpg" alt="Cultural festival in Indonesia" className="banner-image-culture" />
                     <h1 className="banner-title-culture">Culture of Indonesia</h1>
                 </section>
 

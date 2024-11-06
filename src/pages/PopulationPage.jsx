@@ -10,7 +10,7 @@ const PopulationPage = () => {
             <div className="population-page">
                 {/* banner */}
                 <section className="banner">
-                    <img src="pics/indonesia-cityscape2.jpg" alt="Cityscape of Indonesia" className="banner-image" />
+                    <img src="pics/indonesia-cityscape2.jpg" alt="Cityscape of Indonesia" className="banner-image-population" />
                     <h1 className="banner-title-population">Population of Indonesia</h1>
                 </section>
 

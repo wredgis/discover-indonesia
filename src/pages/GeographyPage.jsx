@@ -11,7 +11,7 @@ const GeographyPage = () => {
             <div className="geography-page">
                 {/* banner */}
                 <section className="banner">
-                    <img src="/pics/indonesia-landscape2.jpg" alt="Indonesian landscape" className="banner-image" />
+                    <img src="/pics/indonesia-landscape2.jpg" alt="Indonesian landscape" className="banner-image-geography" />
                     <h1 className="banner-title-geography">Geography of Indonesia</h1>
                 </section>
 

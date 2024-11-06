@@ -9,7 +9,7 @@ const HistoryPage = () => {
             <div className="history-page">
                 {/* banner */}
                 <section className="banner">
-                    <img src="/pics/indonesia-history.jpg" alt="Historical sites in Indonesia" className="banner-image" />
+                    <img src="/pics/indonesia-history.jpg" alt="Historical sites in Indonesia" className="banner-image-history" />
                     <h1 className="banner-title-history">History of Indonesia</h1>
                 </section>
 

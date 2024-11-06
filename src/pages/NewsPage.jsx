@@ -11,7 +11,7 @@ const NewsPage = () => {
             <div className="news-page">
                 {/* Banner */}
                 <section className="banner">
-                    <img src="/pics/indonesia-news-banner.png" alt="News banner" className="banner-image" />
+                    <img src="/pics/indonesia-news-banner.png" alt="News banner" className="banner-image-news" />
                     <h1 className="banner-title">Latest News in Indonesia</h1>
                 </section>
 

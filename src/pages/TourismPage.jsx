@@ -11,7 +11,7 @@ const TourismPage = () => {
             <div className="tourism-page">
                 {/* banner */}
                 <section className="banner">
-                    <img src="/pics/indonesia-tourism-banner.jpg" alt="Beautiful beach in Indonesia" className="banner-image" />
+                    <img src="/pics/indonesia-tourism-banner.jpg" alt="Beautiful beach in Indonesia" className="banner-image-tourism" />
                     <h1 className="banner-title-tourism">Discover Indonesia</h1>
                 </section>
 

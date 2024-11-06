@@ -21,7 +21,7 @@ const WhoIamPage = () => {
                 <section className="contact-section">
                     <h2>Contact Me</h2>
                     <p>Wredgis</p>
-                    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+                    <p>Email: <a href="mailto:wredgis@gmail.com">wredgis@gmail.com</a></p>
                 </section>
             </main>
 
